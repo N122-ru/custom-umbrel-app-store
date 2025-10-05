@@ -2,6 +2,7 @@ manifestVersion: 1
 id: custom-vaultwarden
 category: files
 name: Vaultwarden
+icon: https://getumbrel.github.io/umbrel-apps-gallery/vaultwarden/icon.svg
 version: "1.34.3"
 tagline: Unofficial Bitwarden® compatible server
 description: >-
@@ -59,9 +60,9 @@ repo: https://github.com/dani-garcia/vaultwarden
 support: https://vaultwarden.discourse.group/
 port: 8089
 gallery:
-  - 1.jpg
-  - 2.jpg
-  - 3.jpg
+  - https://getumbrel.github.io/umbrel-apps-gallery/vaultwarden/1.jpg
+  - https://getumbrel.github.io/umbrel-apps-gallery/vaultwarden/2.jpg
+  - https://getumbrel.github.io/umbrel-apps-gallery/vaultwarden/3.jpg
 path: ""
 defaultUsername: ""
 defaultPassword: ""
